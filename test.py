@@ -1,3 +1,0 @@
-print("Hello1")
-print("Hello2")
-print("hello3")
